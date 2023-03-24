@@ -1,2 +1,7 @@
-.mypy_cache/*
+.mypy_cache*
 __pycache__/*
+__pycache__*
+.vscode*
+.vscode/*
+app/__pycache__/*
+app/__pycache__*
