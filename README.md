@@ -5,8 +5,7 @@
 ## Roadmap
 
 - [x] 1. Hello, World!
-- [x] 2.
-- [ ] 2: Templates
+- [x] 2. Templates
 - [ ] 3: Web Forms
 - [ ] 4: Database
 - [ ] 5: User Logins
