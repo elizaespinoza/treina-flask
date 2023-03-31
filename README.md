@@ -6,7 +6,7 @@
 
 - [x] 1. Hello, World!
 - [x] 2. Templates
-- [ ] 3: Web Forms
+- [x] 3: Web Forms
 - [ ] 4: Database
 - [ ] 5: User Logins
 - [ ] 6: Profile Page and Avatars

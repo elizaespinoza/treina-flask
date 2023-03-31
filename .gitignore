@@ -5,3 +5,5 @@ __pycache__*
 .vscode/*
 app/__pycache__/*
 app/__pycache__*
+app.config
+Pipfile.lock
