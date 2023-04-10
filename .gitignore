@@ -7,3 +7,6 @@ app/__pycache__/*
 app/__pycache__*
 app.config
 Pipfile.lock
+.dmypy.json
+app.db
+migrations*
