@@ -7,8 +7,12 @@ name = "pypi"
 flask = "*"
 flask-wtf = "*"
 python-dotenv = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
 
 [dev-packages]
+mypy = "*"
+black = "*"
 
 [requires]
 python_version = "3.10"
